@@ -1,4 +1,6 @@
-import './x.css'
-export default 'xxx'
+import './x.scss'
+import './y.less'
+import './z.styl'
 
-// webpack dev server 可以代替http-server
+
+export default 'xxx'
